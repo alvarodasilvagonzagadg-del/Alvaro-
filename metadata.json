@@ -1,0 +1,11 @@
+{
+  "name": "Remix: FlixEarn",
+  "description": "A premium Netflix-inspired platform where users earn money watching movies, featuring subscription tiers, PIX withdrawals, and administrative controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
